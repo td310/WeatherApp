@@ -11,7 +11,10 @@
 <h3 align="left">Province-based Weather Information</h3>
 <p align="left">In the user interface, users can search for the desired province/city and get dynamic weather information updates based on the provinces/cities selected by the user.</p>
 
-https://github.com/user-attachments/assets/4c665f27-6766-45ea-9800-8a773395287b
+
+https://github.com/user-attachments/assets/55348704-c1b3-4a2c-8f13-f8e111b6d4f3
+
+
 
 <h3 align="left">Dynamic Background Based on Time of Day</h3>
 <p align="left">The app wallpaper will automatically change the time frame from 6:00 am to 6:00 pm, the app displays a bright daytime background. From 6:00 pm to 6:00 am, the background changes to a night theme.</p>
